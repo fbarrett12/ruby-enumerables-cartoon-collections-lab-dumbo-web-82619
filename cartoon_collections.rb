@@ -6,7 +6,7 @@ def roll_call_dwarves(array)
   end 
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(array)
   nu_array = []
   i = 0 
   while i < array.length 
